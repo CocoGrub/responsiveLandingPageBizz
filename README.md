@@ -1,0 +1,2 @@
+# responsiveLandingPageBizz
+ responsivePage
